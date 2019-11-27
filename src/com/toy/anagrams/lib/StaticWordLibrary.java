@@ -1,6 +1,7 @@
 package com.toy.anagrams.lib;
 
 /*
+//NO NEWS, GOOD NEWS?
 Gratsiella!!! xoxo
 */
 
